@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://devyahun.vercel.app/"
 languageCode = "en"
-title = "Ninyy"
+title = "Devyahun"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
